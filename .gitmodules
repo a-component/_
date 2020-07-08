@@ -1,0 +1,3 @@
+[submodule "components/datagrid"]
+	path = components/datagrid
+	url = git@github.com:a-component/datagrid.git
